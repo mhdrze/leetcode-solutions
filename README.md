@@ -2,15 +2,20 @@
 
 A collection of my solutions to LeetCode problems, organized by topic.
 
-## Topics
+## Topics Covered
 
 - Arrays
 - Strings
+- Hash Tables
 - Sliding Window
 - Stack
 - Math
 - Searching
 
-## Goal
+## Purpose
 
-Improve my understanding of data structures, algorithms, and problem solving.
+This repository documents my journey practicing data structures and algorithms and improving problem-solving skills.
+
+## Progress
+
+Problems solved: 13+
